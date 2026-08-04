@@ -10,7 +10,7 @@
 	"contents": {
 		"package": {
 			"description": "为扩展名为 .log 的文件提供语法高亮功能喵。",
-			"displayName": "日志喵喵~"
+			"displayName": "日志喵~"
 		}
 	}
 }

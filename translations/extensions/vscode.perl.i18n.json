@@ -10,7 +10,7 @@
 	"contents": {
 		"package": {
 			"description": "在 Perl 文件中提供语法高亮和括号匹配功能喵。",
-			"displayName": "Perl 语言基础功能喵喵~"
+			"displayName": "Perl 语言基础功能喵"
 		}
 	}
 }

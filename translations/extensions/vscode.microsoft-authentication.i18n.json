@@ -9,26 +9,26 @@
 	"version": "1.0.0",
 	"contents": {
 		"bundle": {
-			"Copy & Continue to Microsoft": "复制并继续前往 Microsoft喵~",
-			"Error validating custom environment setting: {0}": "验证自定义环境设置时出错: {0}喵",
-			"Having trouble logging in? Would you like to try a different way? ({0})": "登录时遇到问题? 是否要尝试其他方式? ({0})喵~",
+			"Copy & Continue to Microsoft": "复制并继续前往 Microsoft喵",
+			"Error validating custom environment setting: {0}": "验证自定义环境设置时出错: {0}喵~",
+			"Having trouble logging in? Would you like to try a different way? ({0})": "登录时遇到问题? 是否要尝试其他方式? ({0})",
 			"Microsoft Account configuration has been changed.": "Microsoft 帐户配置已更改喵。",
 			"Microsoft Authentication": "Microsoft 身份验证",
 			"Microsoft Sovereign Cloud Authentication": "Microsoft 主权云身份验证喵~",
-			"No": "否呢喵~",
-			"Open [{0}]({0}) in a new tab and paste your one-time code: {1}/The [{0}]({0}) will be a url and the {1} will be a code, e.g. 123456{Locked=\"[{0}]({0})\"}": "在新选项卡中打开 [{0}]({0})，并粘贴一次性代码: {1}喵",
-			"Open settings": "打开设置喵～",
-			"Reload": "重新加载喵~",
+			"No": "否喵~",
+			"Open [{0}]({0}) in a new tab and paste your one-time code: {1}/The [{0}]({0}) will be a url and the {1} will be a code, e.g. 123456{Locked=\"[{0}]({0})\"}": "在新选项卡中打开 [{0}]({0})，并粘贴一次性代码: {1}喵喵~",
+			"Open settings": "打开设置喵~",
+			"Reload": "重新加载喵",
 			"Signing in to Microsoft...": "正在登录到 Microsoft...",
 			"The environment `{0}` is not a valid environment.": "环境`{0}`不是有效的环境。",
 			"To finish authenticating, navigate to Microsoft and paste in the above one-time code.": "要完成身份验证，请导航到 Microsoft 并粘贴以上一次性代码喵。",
-			"Yes": "是喵~(>^ω^<)",
-			"You have not yet finished authorizing this extension to use your Microsoft Account. Would you like to try a different way? ({0})": "你尚未完成授权此扩展来使用 Microsoft 帐户。是否要尝试其他方式? ({0})呢",
+			"Yes": "是喵！",
+			"You have not yet finished authorizing this extension to use your Microsoft Account. Would you like to try a different way? ({0})": "你尚未完成授权此扩展来使用 Microsoft 帐户。是否要尝试其他方式? ({0})",
 			"You must also specify a custom environment in order to use the custom environment auth provider.": "还必须指定自定义环境以使用自定义环境身份验证提供程序喵。",
-			"Your Code: {0}/The {0} will be a code, e.g. 123-456": "你的代码: {0}呢喵~"
+			"Your Code: {0}/The {0} will be a code, e.g. 123-456": "你的代码: {0}喵"
 		},
 		"package": {
-			"description": "Microsoft 身份验证提供程序喵喵~",
+			"description": "Microsoft 身份验证提供程序喵",
 			"displayName": "Microsoft 帐户",
 			"microsoft-authentication.implementation.description": "用于通过 Microsoft 帐户进行登录的身份验证实现喵。",
 			"microsoft-authentication.implementation.enumDescriptions.msal": "使用 Microsoft 身份验证库(MSAL) 通过 Microsoft 帐户登录。",
@@ -42,10 +42,10 @@
 			"microsoft-sovereign-cloud.customEnvironment.resourceManagerEndpointUrl.description": "自定义主权云的资源管理器终结点喵。",
 			"microsoft-sovereign-cloud.environment.description": "用于身份验证的主权云。如果选择“custom”，则还必须设置`#microsoft-sovereign-cloud.customEnvironment#`。",
 			"microsoft-sovereign-cloud.environment.enumDescriptions.AzureChinaCloud": "Azure 中国",
-			"microsoft-sovereign-cloud.environment.enumDescriptions.AzureUSGovernment": "Azure 美国政府喵",
-			"microsoft-sovereign-cloud.environment.enumDescriptions.custom": "自定义 Microsoft 主权云喵~",
-			"signIn": "登录喵喵~",
-			"signOut": "注销喵~(>^ω^<)"
+			"microsoft-sovereign-cloud.environment.enumDescriptions.AzureUSGovernment": "Azure 美国政府喵！",
+			"microsoft-sovereign-cloud.environment.enumDescriptions.custom": "自定义 Microsoft 主权云喵",
+			"signIn": "登录喵~",
+			"signOut": "注销喵"
 		}
 	}
 }

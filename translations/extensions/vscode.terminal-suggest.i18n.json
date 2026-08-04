@@ -10,9 +10,9 @@
 	"contents": {
 		"package": {
 			"description": "用于为 zsh、bash 和 fish 终端添加终端完成的扩展喵。",
-			"displayName": "VS Code 的终端建议喵～",
+			"displayName": "VS Code 的终端建议喵~",
 			"terminal.integrated.suggest.clearCachedGlobals": "清除建议缓存的全局变量喵！",
-			"view.name": "终端建议喵~(>^ω^<)"
+			"view.name": "终端建议喵！"
 		}
 	}
 }

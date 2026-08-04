@@ -10,16 +10,16 @@
 	"contents": {
 		"bundle": {
 			"Mermaid Diagram": "Mermaid 图表",
-			"Open Diagram in Editor": "在编辑器中打开图表喵～",
-			"Reset Pan and Zoom": "重置平移和缩放喵~",
-			"Toggle Pan Mode": "切换平移模式喵～",
-			"Zoom In": "放大喵！",
-			"Zoom Out": "缩小呢喵~"
+			"Open Diagram in Editor": "在编辑器中打开图表喵~",
+			"Reset Pan and Zoom": "重置平移和缩放喵",
+			"Toggle Pan Mode": "切换平移模式喵！",
+			"Zoom In": "放大喵~",
+			"Zoom Out": "缩小喵~"
 		},
 		"package": {
-			"command.copySource.title": "复制图表源喵～",
-			"command.openInEditor.title": "在编辑器中打开图表喵～",
-			"command.resetPanZoom.title": "重置平移和缩放喵~",
+			"command.copySource.title": "复制图表源喵~",
+			"command.openInEditor.title": "在编辑器中打开图表喵~",
+			"command.resetPanZoom.title": "重置平移和缩放喵",
 			"config.markdown-mermaid.controls.show.always": "始终显示缩放控件喵。",
 			"config.markdown-mermaid.controls.show.description": "控制是否在 Mermaid 图表上显示 UI 控件喵。",
 			"config.markdown-mermaid.controls.show.never": "从不显示控件喵。",
