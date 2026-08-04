@@ -1,9 +1,9 @@
 {
 	"name": "vscode-language-pack-zh-cn-neko",
-	"displayName": "Neko Chinese (猫娘中文) Language Pack for Visual Studio Code",
+	"displayName": "Neko Chinese (猫娘中文语言包) Language Pack for Visual Studio Code",
 	"description": "Language pack extension for Neko Chinese (猫娘中文) — catgirl-flavored Simplified Chinese UI",
-	"version": "1.131.0",
-	"publisher": "neko-loc",
+	"version": "1.131.3",
+	"publisher": "fish-dreamerl",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/microsoft/vscode-loc"
@@ -28,7 +28,7 @@
 			{
 				"languageId": "zh-cn-nekko",
 				"languageName": "Neko Chinese",
-				"localizedLanguageName": "猫娘中文(猫咪酱)",
+				"localizedLanguageName": "猫娘中文语言",
 				"translations": [
 					{
 						"id": "vscode",
