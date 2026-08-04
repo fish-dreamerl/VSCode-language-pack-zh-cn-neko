@@ -1,0 +1,6 @@
+.vscode/**
+.gitignore
+**/.DS_Store
+package.base.json
+base-ref/**
+scripts/**
