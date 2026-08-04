@@ -9,16 +9,16 @@
 	"version": "1.0.0",
 	"contents": {
 		"bundle": {
-			"Mermaid Diagram": "Mermaid 图表",
+			"Mermaid Diagram": "Mermaid 图表喵~",
 			"Open in Editor": "在编辑器中打开喵~",
-			"Reset Zoom": "重置缩放喵",
-			"Zoom In": "放大喵~",
+			"Reset Zoom": "重置缩放喵~",
+			"Zoom In": "放大喵！",
 			"Zoom Out": "缩小喵~"
 		},
 		"package": {
-			"config.enabled.description": "启用在聊天响应中用于 Mermaid 图表呈现的工具喵。",
-			"description": "将 Mermaid 图表支持添加到内置聊天喵。",
-			"displayName": "Mermaid 聊天功能"
+			"config.enabled.description": "启用在聊天响应中用于 Mermaid 图表呈现的工具喵~",
+			"description": "将 Mermaid 图表支持添加到内置聊天喵~",
+			"displayName": "Mermaid 聊天功能喵~"
 		}
 	}
 }

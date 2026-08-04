@@ -9,30 +9,30 @@
 	"version": "1.0.0",
 	"contents": {
 		"bundle": {
-			"Always": "总是喵",
-			"Auto Attach: Always": "自动附加: 始终喵！",
+			"Always": "总是喵~",
+			"Auto Attach: Always": "自动附加: 始终喵~",
 			"Auto Attach: Disabled": "自动附加: 已禁用喵~",
 			"Auto Attach: Smart": "自动附加: 智能喵~(≧▽≦)",
 			"Auto Attach: With Flag": "自动附加: 带标志喵~",
-			"Auto attach is disabled and not shown in status bar": "自动附加被禁用，且不在状态栏中显示呢喵~",
-			"Auto attach to every Node.js process launched in the terminal": "自动附加到终端中启动的每个 Node.js 进程喵！",
-			"Auto attach when running scripts that aren't in a node_modules folder": "运行 node_modules 文件夹中未包含的脚本时自动附加喵！",
-			"Automatically attach to node.js processes in debug mode": "在调试模式下自动附加到 Node.js 进程呢喵~",
-			"Debug Auto Attach": "调试自动附加喵",
+			"Auto attach is disabled and not shown in status bar": "自动附加被禁用，且不在状态栏中显示喵~",
+			"Auto attach to every Node.js process launched in the terminal": "自动附加到终端中启动的每个 Node.js 进程喵~",
+			"Auto attach when running scripts that aren't in a node_modules folder": "运行 node_modules 文件夹中未包含的脚本时自动附加喵~",
+			"Automatically attach to node.js processes in debug mode": "在调试模式下自动附加到 Node.js 进程喵~",
+			"Debug Auto Attach": "调试自动附加喵~",
 			"Disabled": "已禁用喵~",
 			"Only With Flag": "仅带标志喵~",
-			"Only auto attach when the `--inspect` flag is given": "仅在给定 \"--inspect\" 标志时自动附加呢喵~",
+			"Only auto attach when the `--inspect` flag is given": "仅在给定 \"--inspect\" 标志时自动附加喵~",
 			"Re-enable auto attach": "重新启用自动附加喵~",
-			"Smart": "智能喵！",
-			"Temporarily disable auto attach in this session": "在此会话中暂时禁用自动附加喵！",
-			"Toggle Auto Attach": "切换自动附加喵！",
-			"Toggle auto attach in this workspace": "在此工作区中切换自动附加喵！",
-			"Toggle auto attach on this machine": "在此计算机上切换自动附加喵喵~"
+			"Smart": "智能喵~",
+			"Temporarily disable auto attach in this session": "在此会话中暂时禁用自动附加喵~",
+			"Toggle Auto Attach": "切换自动附加喵~",
+			"Toggle auto attach in this workspace": "在此工作区中切换自动附加喵~",
+			"Toggle auto attach on this machine": "在此计算机上切换自动附加喵~"
 		},
 		"package": {
-			"description": "当 node-debug 扩展未启用时提供自动附加的辅助程序喵。",
+			"description": "当 node-debug 扩展未启用时提供自动附加的辅助程序喵~",
 			"displayName": "Node 调试自动附加喵~",
-			"toggle.auto.attach": "切换开关自动附加喵"
+			"toggle.auto.attach": "切换开关自动附加喵~"
 		}
 	}
 }

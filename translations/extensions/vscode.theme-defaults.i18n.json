@@ -9,19 +9,19 @@
 	"version": "1.0.0",
 	"contents": {
 		"package": {
-			"dark2026ThemeLabel": "2026 深色",
-			"darkColorThemeLabel": "深色(Visual Studio)",
-			"darkModernThemeLabel": "现代深色喵",
+			"dark2026ThemeLabel": "2026 深色喵~",
+			"darkColorThemeLabel": "深色(Visual Studio)喵~",
+			"darkModernThemeLabel": "现代深色喵~",
 			"darkPlusColorThemeLabel": "深色+喵~",
-			"description": "默认 Visual Studio 浅色和深色主题喵！",
+			"description": "默认 Visual Studio 浅色和深色主题喵~",
 			"displayName": "默认主题喵~",
-			"hcColorThemeLabel": "深色高对比度喵",
-			"light2026ThemeLabel": "2026 浅色",
-			"lightColorThemeLabel": "浅色(Visual Studio)",
-			"lightHcColorThemeLabel": "浅色高对比度喵",
-			"lightModernThemeLabel": "现代浅色喵",
+			"hcColorThemeLabel": "深色高对比度喵~",
+			"light2026ThemeLabel": "2026 浅色喵~",
+			"lightColorThemeLabel": "浅色(Visual Studio)喵~",
+			"lightHcColorThemeLabel": "浅色高对比度喵~",
+			"lightModernThemeLabel": "现代浅色喵~",
 			"lightPlusColorThemeLabel": "浅色+喵~",
-			"minimalIconThemeLabel": "最小(Visual Studio Code)"
+			"minimalIconThemeLabel": "最小(Visual Studio Code)喵~"
 		}
 	}
 }

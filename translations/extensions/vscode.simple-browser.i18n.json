@@ -15,14 +15,14 @@
 			"Forward": "前进喵~",
 			"Open in browser": "在浏览器中打开喵~",
 			"Open in simple browser": "在简易浏览器中打开喵~",
-			"Reload": "重新加载喵",
+			"Reload": "重新加载喵！",
 			"Simple Browser": "简单浏览器喵~",
-			"https://example.com": "https://example.com"
+			"https://example.com": "https://example.com喵~"
 		},
 		"package": {
-			"configuration.focusLockIndicator.enabled.description": "启用/禁用在简单浏览器中聚焦时显示的浮动指示器喵。",
-			"description": "一个非常基本的内置 Web 视图，用于显示 Web 内容喵。",
-			"displayName": "简易浏览器喵"
+			"configuration.focusLockIndicator.enabled.description": "启用/禁用在简单浏览器中聚焦时显示的浮动指示器喵~",
+			"description": "一个非常基本的内置 Web 视图，用于显示 Web 内容喵~",
+			"displayName": "简易浏览器喵~"
 		}
 	}
 }

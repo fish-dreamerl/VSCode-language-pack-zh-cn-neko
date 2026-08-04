@@ -9,37 +9,37 @@
 	"version": "1.0.0",
 	"contents": {
 		"bundle": {
-			"An error occurred while loading the audio file.": "在加载视频文件时出错喵。",
-			"An error occurred while loading the image.": "加载图片出错喵。",
-			"An error occurred while loading the video file.": "在加载视频文件时出错喵。",
-			"Image Binary Size": "图像二进制文件大小喵！",
+			"An error occurred while loading the audio file.": "在加载视频文件时出错喵！",
+			"An error occurred while loading the image.": "加载图片出错喵！",
+			"An error occurred while loading the video file.": "在加载视频文件时出错喵！",
+			"Image Binary Size": "图像二进制文件大小喵~",
 			"Image Size": "图像大小喵~",
 			"Image Zoom": "图像缩放喵~",
 			"Open file using VS Code's standard text/binary editor?": "使用 VS Code 的标准文本/二进制编辑器打开文件喵？",
 			"Select zoom level": "选择缩放级别喵~",
-			"The audio file is stored with Git LFS and is not available for preview.": "音频文件通过 Git LFS 存储，无法预览喵。",
-			"The image is stored with Git LFS and is not available for preview.": "图像通过 Git LFS 存储，无法预览喵。",
-			"The video file is stored with Git LFS and is not available for preview.": "视频文件通过 Git LFS 存储，无法预览喵。",
+			"The audio file is stored with Git LFS and is not available for preview.": "音频文件通过 Git LFS 存储，无法预览喵！",
+			"The image is stored with Git LFS and is not available for preview.": "图像通过 Git LFS 存储，无法预览喵！",
+			"The video file is stored with Git LFS and is not available for preview.": "视频文件通过 Git LFS 存储，无法预览喵！",
 			"Whole Image": "整张图片喵~",
-			"{0}B": "{0} B",
-			"{0}GB": "{0} GB",
-			"{0}KB": "{0} KB",
-			"{0}MB": "{0} MB",
-			"{0}TB": "{0} TB"
+			"{0}B": "{0} B喵~",
+			"{0}GB": "{0} GB喵~",
+			"{0}KB": "{0} KB喵~",
+			"{0}MB": "{0} MB喵~",
+			"{0}TB": "{0} TB喵~"
 		},
 		"package": {
-			"command.copyImage": "复制喵",
-			"command.reopenAsPreview": "作为图像预览重新打开喵！",
-			"command.reopenAsText": "作为源文本重新打开喵！",
-			"command.zoomIn": "放大喵~",
+			"command.copyImage": "复制喵~",
+			"command.reopenAsPreview": "作为图像预览重新打开喵~",
+			"command.reopenAsText": "作为源文本重新打开喵~",
+			"command.zoomIn": "放大喵！",
 			"command.zoomOut": "缩小喵~",
 			"customEditor.audioPreview.displayName": "音频预览喵~",
 			"customEditor.imagePreview.displayName": "图像预览喵~",
-			"customEditor.videoPreview.displayName": "视频预览喵！",
+			"customEditor.videoPreview.displayName": "视频预览喵~",
 			"description": "为图像、音频和视频提供 VS Code 的内置预览喵~",
 			"displayName": "媒体预览喵~",
-			"videoPreviewerAutoPlay": "开始自动静音播放视频喵。",
-			"videoPreviewerLoop": "自动再次循环播放视频喵。"
+			"videoPreviewerAutoPlay": "开始自动静音播放视频喵~",
+			"videoPreviewerLoop": "自动再次循环播放视频喵~"
 		}
 	}
 }

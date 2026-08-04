@@ -9,17 +9,17 @@
 	"version": "1.0.0",
 	"contents": {
 		"bundle": {
-			"Auto detecting Grunt for folder {0} failed with error: {1}', this.workspaceFolder.name, err.error ? err.error.toString() : 'unknown": "自动检测文件夹 {0} 的 Grunt 失败，错误为: {1}', this.workspaceFolder.name, err.error ? err.error.toString() : 'unknown",
+			"Auto detecting Grunt for folder {0} failed with error: {1}', this.workspaceFolder.name, err.error ? err.error.toString() : 'unknown": "自动检测文件夹 {0} 的 Grunt 失败，错误为: {1}', this.workspaceFolder.name, err.error ? err.error.toString() : 'unknown喵！",
 			"Go to output": "转到输出喵！",
-			"Problem finding grunt tasks. See the output for more information.": "查找咕咕任务的问题。有关详细信息，请参阅输出喵。"
+			"Problem finding grunt tasks. See the output for more information.": "查找咕咕任务的问题。有关详细信息，请参阅输出喵~"
 		},
 		"package": {
-			"config.grunt.autoDetect": "Grunt 任务检测的控制启用。Grunt 任务检测可能会导致执行任何打开的工作区中的文件喵。",
-			"description": "向 VS Code 提供 Grunt 功能的扩展喵。",
-			"displayName": "适用于 VS Code 的 Grunt 支持",
-			"grunt.taskDefinition.args.description": "要传递给 grunt 任务的命令行参数喵！",
-			"grunt.taskDefinition.file.description": "提供任务的 Grunt 文件。可以省略喵。",
-			"grunt.taskDefinition.type.description": "要自定义的 Grunt 任务喵。"
+			"config.grunt.autoDetect": "Grunt 任务检测的控制启用。Grunt 任务检测可能会导致执行任何打开的工作区中的文件喵~",
+			"description": "向 VS Code 提供 Grunt 功能的扩展喵~",
+			"displayName": "适用于 VS Code 的 Grunt 支持喵~",
+			"grunt.taskDefinition.args.description": "要传递给 grunt 任务的命令行参数喵~",
+			"grunt.taskDefinition.file.description": "提供任务的 Grunt 文件。可以省略喵~",
+			"grunt.taskDefinition.type.description": "要自定义的 Grunt 任务喵~"
 		}
 	}
 }

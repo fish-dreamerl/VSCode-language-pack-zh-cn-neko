@@ -9,22 +9,22 @@
 	"version": "1.0.0",
 	"contents": {
 		"bundle": {
-			"Branch name": "分支名称喵",
-			"Choose a URL to clone from.": "选择要从中进行克隆的 URL喵。",
-			"No remote repositories found.": "未找到远程存储库喵。",
+			"Branch name": "分支名称喵~",
+			"Choose a URL to clone from.": "选择要从中进行克隆的 URL喵~",
+			"No remote repositories found.": "未找到远程存储库喵！(^ω^)",
 			"Provide repository URL": "提供仓库 URL喵~",
-			"Provide repository URL or pick a repository source.": "提供仓库 URL 或选择仓库源喵。",
-			"Repository name": "仓库名称喵！",
-			"Repository name (type to search)": "仓库名称(键入内容进行搜索)",
-			"URL": "URL",
+			"Provide repository URL or pick a repository source.": "提供仓库 URL 或选择仓库源喵~",
+			"Repository name": "仓库名称喵~",
+			"Repository name (type to search)": "仓库名称(键入内容进行搜索)喵~",
+			"URL": "URL喵~o(≧▽≦)o",
 			"recently opened": "最近打开喵~",
 			"remote sources": "远程源喵~",
-			"{0} Error: {1}": "{0} 错误: {1}"
+			"{0} Error: {1}": "{0} 错误: {1}喵！"
 		},
 		"package": {
 			"command.api.getRemoteSources": "获取远程源喵~",
-			"description": "Git 静态贡献和选取器喵。",
-			"displayName": "Git 基础喵"
+			"description": "Git 静态贡献和选取器喵~",
+			"displayName": "Git 基础喵~"
 		}
 	}
 }
