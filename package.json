@@ -2,11 +2,11 @@
 	"name": "vscode-language-pack-zh-cn-neko",
 	"displayName": "Neko Chinese (猫娘中文语言包) Language Pack for Visual Studio Code",
 	"description": "Language pack extension for Neko Chinese (猫娘中文) — catgirl-flavored Simplified Chinese UI",
-	"version": "1.131.3",
+	"version": "1.131.4",
 	"publisher": "fish-dreamerl",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/microsoft/vscode-loc"
+		"url": "https://github.com/fish-dreamerl/VSCode-language-pack-zh-cn-neko"
 	},
 	"license": "SEE MIT LICENSE IN LICENSE.md",
 	"engines": {

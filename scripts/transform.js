@@ -33,6 +33,16 @@ function hash(s) { let h = 0; for (let i = 0; i < s.length; i++) h = (h * 31 + s
 
 function isVerbLead(v) { return VERBS.some(vb => v.startsWith(vb)); }
 
+const KEY = /(?:Ctrl|Shift|Alt|Cmd|Meta|Option|Super|Enter|Esc|Tab|Space|Win|F\d{1,2}|[A-Z0-9])/;
+// 纯快捷键提示串，如 "Alt+Enter"、"Ctrl+Shift+P" -> 不加语气词
+function isPureShortcut(s) {
+  return /^(?:Ctrl|Shift|Alt|Cmd|Meta|Option|Super|Enter|Esc|Tab|Space|F\d{1,2})(?:[+＋]\s*(?:Ctrl|Shift|Alt|Cmd|Meta|Option|Super|Enter|Esc|Tab|Space|F\d{1,2}|[A-Z0-9]))+$/.test(s);
+}
+// 核心串以快捷键片段结尾，如 "Ctrl+Alt+"、"Alt+Enter" -> 不加语气词
+function endsWithShortcut(s) {
+  return /(?:Ctrl|Shift|Alt|Cmd|Meta|Option|Super|Enter|Esc|Tab|Space|F\d{1,2})(?:[+＋]\s*[A-Za-z0-9]+)*[+＋]?$/.test(s);
+}
+
 // 语气分类：特别重要警告/询问/警告提示/操作/陈述
 function classify(v, wasQuestion) {
   if (CRIT.test(v)) return '喵！！！';
@@ -47,6 +57,7 @@ function transformValue(v, isPackage) {
   if (typeof v !== 'string' || !v) return v;
 
   if (DICT.has(v)) return DICT.get(v);
+  if (isPureShortcut(v)) return v;
 
   const wasQuestion = /[?？]$/.test(v) || /吗$/.test(v);
 
@@ -57,6 +68,8 @@ function transformValue(v, isPackage) {
   else if (core.endsWith('…')) { tail = '…'; core = core.slice(0, -1); }
   // 句末标点（。！？：,）剥离
   core = core.replace(TERM_PUNCT, '');
+  // 以快捷键片段结尾：只保留原文，不附加语气词
+  if (!tail && endsWithShortcut(core)) return core;
 
   const particle = classify(core, wasQuestion);
   let out = core + particle + tail;

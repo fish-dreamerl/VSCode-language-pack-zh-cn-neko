@@ -3,6 +3,9 @@
 猫娘风格的 Visual Studio Code 简体中文语言包（`zh-cn-neko`）。
 以微软官方简体中文语言包为底本，术语与官方一致，仅叠加猫娘语气与颜文字。
 
+- 作者：fish-dreamerl
+- 仓库：[https://github.com/fish-dreamerl/VSCode-language-pack-zh-cn-neko](https://github.com/fish-dreamerl/VSCode-language-pack-zh-cn-neko)
+
 ## 特性
 
 - 以官方 `zh-cn` 语言包为底本，Git / Workspace / 断点等专业术语保持官方译法，保证正确性。

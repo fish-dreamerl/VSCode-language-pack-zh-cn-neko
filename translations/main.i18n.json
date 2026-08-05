@@ -181,16 +181,16 @@
 			"error.valueExpected": "需要值喵~"
 		},
 		"vs/base/common/keybindingLabels": {
-			"altKey": "Alt喵~",
-			"altKey.long": "Alt喵~",
+			"altKey": "Alt",
+			"altKey.long": "Alt",
 			"cmdKey.long": "Command喵~",
-			"ctrlKey": "Ctrl喵~",
+			"ctrlKey": "Ctrl",
 			"ctrlKey.long": "Control喵~",
-			"optKey.long": "Option喵~",
-			"shiftKey": "Shift喵~",
-			"shiftKey.long": "Shift喵~",
-			"superKey": "Super喵~",
-			"superKey.long": "Super喵~",
+			"optKey.long": "Option",
+			"shiftKey": "Shift",
+			"shiftKey.long": "Shift",
+			"superKey": "Super",
+			"superKey.long": "Super",
 			"windowsKey": "Windows喵~",
 			"windowsKey.long": "Windows喵~"
 		},
@@ -3225,7 +3225,7 @@
 		"vs/platform/keyboardLayout/common/keyboardConfig": {
 			"dispatch": "控制按键的分派逻辑以使用 \"code\" (推荐) 或 \"keyCode\"喵~",
 			"keyboardConfigurationTitle": "键盘喵~",
-			"mapAltGrToCtrlAlt": "控制是否应将 AltGraph+ 修饰符视为 Ctrl+Alt+喵~"
+			"mapAltGrToCtrlAlt": "控制是否应将 AltGraph+ 修饰符视为 Ctrl+Alt+"
 		},
 		"vs/platform/languagePacks/common/languagePacks": {
 			"currentDisplayLanguage": " (当前)喵~"
@@ -4366,7 +4366,7 @@
 			"agentFeedback.addAtCurrentLine": "在当前行添加反馈喵~",
 			"agentFeedback.addComment": "添加批注喵！",
 			"agentFeedback.addFeedback": "添加反馈喵！",
-			"altEnter": "Alt+Enter喵~",
+			"altEnter": "Alt+Enter",
 			"enter": "输入喵~"
 		},
 		"vs/sessions/contrib/agentFeedback/browser/agentFeedbackEditorOverlay": {
@@ -7210,7 +7210,7 @@
 			"toggleSidebar": "切换边栏喵~"
 		},
 		"vs/workbench/browser/parts/editor/multiEditorTabsControl": {
-			"addTab": "Add Tab喵~",
+			"addTab": "Add Tab",
 			"ariaLabelTabActions": "选项卡操作喵~"
 		},
 		"vs/workbench/browser/parts/editor/sideBySideEditor": {
@@ -9038,10 +9038,10 @@
 			"browser.type.invocation.element": "正在 {1} 中的 {0} 内键入文本喵！",
 			"browser.type.past": "已在 {0} 中键入文本喵~",
 			"browser.type.past.element": "已在 {1} 中的 {0} 内键入文本喵~",
-			"browser.typeAndSubmit.invocation": "在 {0} 中键入文本并按 Enter喵~",
-			"browser.typeAndSubmit.invocation.element": "在 {1} 的 {0} 中键入文本并按 Enter喵~",
-			"browser.typeAndSubmit.past": "已在 {0} 中键入文本并按 Enter喵~",
-			"browser.typeAndSubmit.past.element": "已在 {1} 的 {0} 中键入文本并按 Enter喵~",
+			"browser.typeAndSubmit.invocation": "在 {0} 中键入文本并按 Enter",
+			"browser.typeAndSubmit.invocation.element": "在 {1} 的 {0} 中键入文本并按 Enter",
+			"browser.typeAndSubmit.past": "已在 {0} 中键入文本并按 Enter",
+			"browser.typeAndSubmit.past.element": "已在 {1} 的 {0} 中键入文本并按 Enter",
 			"typeBrowserTool.displayName": "在页面中键入喵~",
 			"typeBrowserTool.userDescription": "在浏览器页面中键入文本或按下键喵~"
 		},
@@ -24348,7 +24348,7 @@
 			"onboarding.personalize.tip.modifier": "{0}喵~",
 			"onboarding.personalize.tip.p": "P喵~",
 			"onboarding.personalize.tip.prefix": "提示: 按 喵！",
-			"onboarding.personalize.tip.shift": "Shift喵~",
+			"onboarding.personalize.tip.shift": "Shift",
 			"onboarding.personalize.tip.suffix": " 以访问所有 VS Code 命令喵~",
 			"onboarding.sessions.agentMode": "智能体喵~",
 			"onboarding.sessions.agentMode.desc": "描述一个目标。智能体规划方法、编辑文件、运行命令并自我纠正。你全程审核并批准喵~",
